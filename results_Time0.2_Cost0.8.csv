@@ -1,0 +1,6 @@
+Scenario,Space Elevator Proportion,Transport Time (years),Total Cost (trillion USD),Space Elevator Volume (million tons),Rocket Volume (million tons)
+Scenario B (Rockets only),0.0,160.0,80.0,0.0,100.0
+"Optimal (Time=0.2, Cost=0.8)",1.0,186.21973929236498,1.0106,100.0,0.0
+Hybrid (Shortest Time),0.4621342512908778,86.05851979345955,43.496615490533564,46.21342512908778,53.78657487091222
+Hybrid (Balanced),0.7310671256454389,136.13912954291226,22.253607745266788,73.10671256454388,26.893287435456116
+Scenario A (Elevator only),1.0,186.21973929236498,1.0106,100.0,0.0
